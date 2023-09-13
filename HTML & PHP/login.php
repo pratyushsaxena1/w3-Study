@@ -10,9 +10,9 @@
 	<header class = "header"> Sign Up </header>
 	<hr>
 	<form action = "sendemailcheck.php" method="POST" id="my-form-3">
-        <label for="email">Email (@tjhsst.edu):</label><br>
+        <label for="email">Email:</label><br>
         <input type="text" id="email" name="email" placeholder="Email" required><br>
-        <label for="password">Password (different than Ion password):</label><br>
+        <label for="password">Password:</label><br>
         <input type="password" id="userpassword" name="userpassword" placeholder="Password" required><br>
 		<button type = "submit" name = "submit" id = "submitformbutton4">Submit</button>
     </form>
