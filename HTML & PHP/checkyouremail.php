@@ -9,7 +9,8 @@
     <link href="/css/websitecss.css" rel="stylesheet" type = "text/css">
 	<header class = "header"> Email Verification </header>
     <hr>
-	<p>Check your <a href = "https://webmail.tjhsst.edu/" target = _blank style = "color: cyan">Webmail</a> to create your account. It make take a few minutes for the email to go through. <br> Please leave this tab open until you verify your email.</p>
+	<!-- <p>Check your <a href = "https://webmail.tjhsst.edu/" target = _blank style = "color: cyan">Webmail</a> to create your account. It make take a few minutes for the email to go through. <br> Please leave this tab open until you verify your email.</p> -->
+	<p>Check your email to create your account. It make take a few minutes for the email to go through. <br> Please leave this tab open until you verify your email.</p>
 	<button id = "back" onclick = "back()"> Back </button>
 	<script src = "/js/websitejs.js"></script>
 </body>
