@@ -3,8 +3,8 @@
         session_start();
         $_SESSION['useremail'] = $_POST['email'];
         $_SESSION['userpassword'] = $_POST['userpassword'];
-        $checkemail = $_POST['email'];
-        if (strpos($checkemail, '@tjhsst.edu')) {
+        //$checkemail = $_POST['email'];
+        //if (strpos($checkemail, '@tjhsst.edu')) {
             $emailFrom = 'w3study.contact@gmail.com';
             $emailSubject = 'Confirm w3-Study Sign Up';
             $emailTo = $_POST['email'];
@@ -14,9 +14,9 @@
             $body = '<a href="http://w3-study.com/html/insertlogin.php">Click here to verify your account.</a>';
             mail($emailTo, $emailSubject, $body, $headers);
             header("Location: http://w3-study.com/html/checkyouremail.php");
-        }
-        else {
-            header("Location: http://w3-study.com/html/accessdenied.php");
-        }
+        //}
+        //else {
+        //    header("Location: http://w3-study.com/html/accessdenied.php");
+        //}
     }
 ?>
