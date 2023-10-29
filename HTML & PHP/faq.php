@@ -10,7 +10,7 @@
     <header class = "header"> Frequently Asked Questions </header>
     <hr> 
     <p style = "text-align: left; padding-left: 2vw;"><strong>What's the purpose of this website?</strong></p>
-    <p style = "text-align: left; padding-left: 2vw;">The purpose of w3-Study is to serve as a tool for TJ students to study together in an organized fashion. Instead of studying only with friends, you can meet new people and study with them. This can help you improve your productivity, make friends, and get to know the TJ community a little bit better. Using w3-Study can also help you make your meetings more organized so you never miss out on a study session.</p>
+    <p style = "text-align: left; padding-left: 2vw;">The purpose of w3-Study is to serve as a tool for students to study together in an organized fashion. Instead of studying only with friends, you can meet new people and study with them. This can help you improve your productivity and help you make friends. Using w3-Study can also help you make your meetings more organized so you never miss out on a study session.</p>
     <p style = "text-align: left; padding-left: 2vw;"><strong>Why does it say "File not Found" when I click on a link?</strong></p>
     <p style = "text-align: left; padding-left: 2vw;">This error occurs when the link isn't a real link. If you know the room's creator, try contacting them and letting them know that the link isn't valid. If you are the creator and don't know why this is happening, try editing the room and entering the link again. Make sure to leave the https:// on the link.</p>
     <p style = "text-align: left; padding-left: 2vw;"><strong>How do I join a room?</strong></p>
